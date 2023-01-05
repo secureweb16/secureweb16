@@ -9,7 +9,7 @@ A group of Full Stack Developers
 * ✉️  You can contact me at [secureweb16@gmail.com](mailto:secureweb16@gmail.com)
 * 🧠  I'm learning Metamask, Web3, Ethereum
 * 🤝  I'm open to provide customized Services to Client's requirements
-* ⚡  Wordpress Expert, Shopify App Development
+* ⚡  Wordpress Expert, Shopify Theme Design & Customization, App Development
 
 ### Skills
 
